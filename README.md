@@ -16,7 +16,7 @@ How to use:
 
 This Prototype is designed and built by
 
-Duy Anh Bui (Emile Bui)
-Cong Thanh Tran (Kelvin Tran)
-Buhle Mwanza
-Boluwatife Akinola
+- Duy Anh Bui (Emile Bui)
+- Cong Thanh Tran (Kelvin Tran)
+- Buhle Mwanza
+- Boluwatife Akinola
